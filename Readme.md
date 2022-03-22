@@ -1,5 +1,5 @@
+#使用Matlab打开工程所在目录，双击.prj文件打开工程。
 MATLAB 版本: 9.12.0.1884302 (R2022a)
-MATLAB 许可证编号: 40566408
 操作系统: Microsoft Windows 11 专业版 Version 10.0 (Build 22000)
 Java 版本: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
 ------------------------------------------------------------------------------------------------
